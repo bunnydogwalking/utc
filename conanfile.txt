@@ -1,0 +1,6 @@
+[requires]
+cctz/2.3
+
+[generators]
+CMakeDeps
+CMakeToolchain
