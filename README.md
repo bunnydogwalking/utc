@@ -24,7 +24,7 @@ to a human-readable format using the specified timezone.
 ## Example
 
 ```shell
-zzz@lop:~$ utc --tz America/Chicago -- utc 1650825477123 was a couple of years ago.
+zzz@lop:~$ utc --tz America/Chicago -- Timestamp 1650825477123 was a couple of years ago.
 utc 20220424 13:37:57.123 CDT was a couple of years ago.
 ```
 
